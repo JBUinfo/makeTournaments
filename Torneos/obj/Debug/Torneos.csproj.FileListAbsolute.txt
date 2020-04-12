@@ -1,0 +1,15 @@
+C:\Users\W\source\repos\Torneos\Torneos\bin\Debug\Torneos.exe.config
+C:\Users\W\source\repos\Torneos\Torneos\bin\Debug\Torneos.exe
+C:\Users\W\source\repos\Torneos\Torneos\bin\Debug\Torneos.pdb
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Main.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Properties.Resources.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.csproj.GenerateResource.cache
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.exe
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.pdb
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.WTabla.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Simple_Input.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Tournament16.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Tournament128.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Tournament32.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Tournament64.resources
+C:\Users\W\source\repos\Torneos\Torneos\obj\Debug\Torneos.Tournament8.resources
